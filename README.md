@@ -38,7 +38,6 @@ This data serves as a foundational resource for:
 ## ⚙️ Technologies & Libraries Used
 - **🦊 Selenium** – Automates browser navigation for dynamic content.  
 - **🌐 BeautifulSoup** – Extracts structured data from web pages.  
-- **📷 OpenCV** – Optional use case for image analysis.  
 - **📊 Pandas** – Handles data manipulation.  
 - **🔥 JSON** – Saves structured dataset information.  
 
